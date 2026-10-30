@@ -3,6 +3,8 @@
 bin/
 obj/
 packages/
+App_Data/
+FileUpload/
 *.user
 *.suo
 *.cache
